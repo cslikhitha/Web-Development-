@@ -1,0 +1,71 @@
+//THIS IS MY FIRST CODE IN HTML.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// hear iam using heading from <h1> to <h6>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <body>
+        <h1>Hello everyone </h1>
+        <h2>I am likhitha sk </h2>
+        <h3>This is my first code</h3>
+        <h4>I want to learn a newthings</h4>
+        <h5>heading h5 </h5>
+        <h6>heading h6</h6>
+    </body>
+</head>
+</html>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//hear I am using <p> paragragh tag </p> and  the line breaker <br>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <body>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores cupiditate deleniti optio placeat odio fuga, tempora corrupti, autem iusto reiciendis, dolorum nobis architecto sequi. Quaerat quae consectetur iste esse molestiae!</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Pariatur, magnam dolore modi nam fugiat non quibusdam odio similique velit quisquam repellat eum ab accusantium ut animi enim unde fugit natus obcaecati rerum. Nostrum facere ex animi totam veritatis sequi cumque. Reprehenderit ab adipisci recusandae! Nobis amet esse porro repellendus. Eaque.</p>
+    </body>
+</head>
+</html>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// image inserting
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title> This is a my first image uploaded webpage</title>
+    </head>
+    <body>
+       <img src="dog.jpg" alt="Dog">
+    </body>
+</html>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//  Video generation
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title> This is a my first image uploaded webpage</title>
+    </head>
+    <body>
+        <video src="C:\Users\LIKHITHA S K\OneDrive\Desktop\WEB\Baby_buys_bananas_for_guests_202608021432.mp4" alt="first animation "controls autoplay/>
+    </body>
+</html>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// Here i copied a link by using a tag href
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title> This is a my first image uploaded webpage</title>
+    </head>
+    <body>
+        <a href="http://www.youtube.com/@LikhithaAradhya-9/">Youtube link</a>
+    </body>
+</html>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
