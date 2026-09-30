@@ -1,0 +1,146 @@
+// I added an image to my HTML page. When I click the image, it should open the website linked to it.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Learning  about the some  tags </title>
+</head>
+<body>
+   <h1> This is my page </h1><br>
+   <p> You can see my details</p><br>
+   <a href="https://www.youtube.com/@LikhithaAradhya-9"><img src="C:\Users\LIKHITHA S K\Downloads\dog.jpg" height="300" alt="YouTube Link"></a>
+   <b>Likhitha SK</b><hr>
+   <i> from koratagere</i>
+   <u> Tumkur dist</u><br>
+   <s>Iam not in Andra</s><br>
+   (x+y)<sup>2</sup><hr>
+   CH<sub>4</sub><hr>
+   
+</body>
+</html>
+-----------------------------------------------------------------------------------------------------------------------------------------
+//Here I included the Header and main of the HTML page 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Learning  about the some  tags </title>
+</head>
+<body>
+  <header><big><b>This is the header</b></big></header>
+  <hr>
+  <main><p>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, assumenda ea deserunt aliquam quod dolorem architecto. Ipsa voluptatem aspernatur quae. Voluptatibus, illum quisquam! Assumenda a totam ullam veniam maxime? Itaque?
+  </p>This is the main content of the page</main>  
+</body>
+</html>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Learning  about the some  tags </title>
+</head>
+<body>
+  <header><big><b>This is the header</b></big></header>
+  <hr>
+  <main>
+    <section>Technologies:HTML/CSS</section>
+    <section>Courses:OS/DBMS</section>
+    <section>Hobbies:Playing Chess</section>
+</main>  
+</body>
+</html>
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Learning  about the some  tags </title>
+</head>
+<body>
+  <header><big><b>This is the header</b></big></header>
+  <hr>
+  <main>
+    <section><h1>Technologies:HTML/CSS
+</h1>
+    </section>
+    <section><h2>Courses:OS/DBMS
+</h2>
+    </section>
+    <section><h3>Hobbies:Playing Chess</h3></section>
+</main>  
+</body>
+</html>
+---------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Learning  about the some  tags </title>
+</head>
+<body>
+  <header><big><b>This is the header</b></big></header>
+  <hr>
+  <main>
+    <section><h1>Technologies:HTML/CSS
+</h1>
+    </section>
+    <section><h2>Courses:OS/DBMS
+</h2>
+    </section>
+    <section><h3>Hobbies:Playing Chess</h3></section>
+    <article>
+        <pre> Playing Chess
+
+Chess is a popular indoor game played between two players. It is played on a board with 64 squares arranged in black and white. Each player has 16 pieces, including one king, one queen, two rooks, two bishops, two knights, and eight pawns.
+
+Chess is a game of strategy, patience, and concentration. Players move their pieces according to specific rules and try to checkmate the opponent's king. Every move requires careful thinking and planning.
+
+Playing chess improves memory, concentration, problem-solving skills, and logical thinking. It also teaches us patience and decision-making. Chess can be enjoyed by people of all ages and is a great way to spend our free time productively.
+
+I enjoy playing chess because it is both interesting and challenging. It helps me think carefully and develop my skills while having fun.
+</pre>
+    </article>
+</main>  
+</body>
+</html>
+-------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Learning  about the some  tags </title>
+</head>
+<body>
+  <nav>
+    <a href="#home">home</a><br>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+    
+</main>  
+</body>
+</html>
+-------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Learning  about the some  tags </title>
+</head>
+<body>
+  <header>
+    <nav>
+    
+    <a href="#content">Content</a>
+  </nav>
+</header>
+<main>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime natus necessitatibus saepe quaerat dolorum voluptatem odit, voluptatum, ut rerum quos ex, laborum officia cupiditate praesentium quam totam hic pariatur fuga earum labore accusamus nisi repellat esse veniam. Ad animi vero tempore labore ullam, veritatis hic nulla eligendi totam ipsum quae quod a fugit praesentium. Adipisci, dolorem rem! Asperiores repellat velit vero quos nulla quae. Quisquam ad et tempore ipsum? Consequatur dignissimos voluptatibus esse eum autem saepe obcaecati ad magnam vel nisi! Similique sapiente blanditiis, laboriosam ut consectetur laborum provident sit laudantium perferendis. Aperiam impedit illum veniam quibusdam dicta qui aut?</p>
+    <p id ="content">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore soluta minima, doloremque eos temporibus quibusdam, fugiat labore earum ea, placeat alias. Ut, provident deserunt? Corrupti iste enim deserunt molestiae id.</p>
+</main>
+</body>
+</html>
+---------------------------------------------------------------------------------------------------------------------
